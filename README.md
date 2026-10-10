@@ -3,9 +3,11 @@
 A contact manager built with React and Redux Toolkit. Add, search and delete
 contacts; state is synced with a REST backend through async thunks.
 
-**[Live demo](https://YOUR-NEW-URL.vercel.app)**
+**[Live demo]([https://YOUR-NEW-URL.vercel.app](https://goit-react-hw-07-xi-bay.vercel.app))**
 
-![Phonebook App screenshot](docs/screenshot.png)
+
+<img width="465" height="627" alt="SCR-20261010-umir" src="https://github.com/user-attachments/assets/2aaaae6c-316e-42f4-a4a5-9e339700987f" />
+
 
 ## Features
 
